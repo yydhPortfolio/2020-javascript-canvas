@@ -1,5 +1,5 @@
 # 2020-javascript-canvas
-HTML과 JavaScript로 만든 정말 너무 간단한 그림판
+HTML과 JavaScript로 만든 정말 너무 보여주기  간단하게 만든 그림판
 
 <h2>구현된 기능들</h2>
 <ul>
